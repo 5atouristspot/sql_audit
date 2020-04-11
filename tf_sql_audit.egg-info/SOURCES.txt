@@ -1,0 +1,7 @@
+setup.py
+tf_sql_audit.egg-info/PKG-INFO
+tf_sql_audit.egg-info/SOURCES.txt
+tf_sql_audit.egg-info/dependency_links.txt
+tf_sql_audit.egg-info/entry_points.txt
+tf_sql_audit.egg-info/requires.txt
+tf_sql_audit.egg-info/top_level.txt

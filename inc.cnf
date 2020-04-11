@@ -1,0 +1,21 @@
+[inception]
+general_log=1
+general_log_file=inception.log
+port=6669   # Inception 的监听的端口
+socket=/tmp/inc.socket
+character-set-client-handshake=0
+character-set-server=utf8
+inception_remote_system_password=tfkj_secret  # 备份数据库密码
+inception_remote_system_user=djyv4_rw         # 备份数据库用户名
+inception_remote_backup_port=4450             # 备份数据库端口
+inception_remote_backup_host=10.20.4.44       #备份数据库地址
+inception_support_charset=utf8mb4
+inception_enable_nullable=0
+inception_check_primary_key=1
+inception_check_column_comment=1
+inception_check_table_comment=1
+inception_osc_min_table_size=1
+inception_osc_bin_dir=/data/temp
+inception_osc_chunk_time=0.1
+inception_enable_blob_type=1
+inception_check_column_default_value=1

@@ -1,0 +1,15 @@
+flask
+flask-httpauth
+ConfigParser
+MySQL-python
+werkzeug
+threadpool
+gevent
+gevent-websocket
+gunicorn
+paramiko
+logging
+email
+multiprocessing
+nose
+requests

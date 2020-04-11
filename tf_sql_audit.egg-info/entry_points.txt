@@ -1,0 +1,5 @@
+[console_scripts]
+boagent = boagent.run:main
+boird = boird.run:main
+botasky = botasky.run:main
+
